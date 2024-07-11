@@ -1,0 +1,12 @@
+/home/niq/BlazingShop/BlazingShop.Shared/bin/Debug/net8.0/BlazingShop.Shared.deps.json
+/home/niq/BlazingShop/BlazingShop.Shared/bin/Debug/net8.0/BlazingShop.Shared.dll
+/home/niq/BlazingShop/BlazingShop.Shared/bin/Debug/net8.0/BlazingShop.Shared.pdb
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.AssemblyInfoInputs.cache
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.AssemblyInfo.cs
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.csproj.CoreCompileInputs.cache
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.sourcelink.json
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.dll
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/refint/BlazingShop.Shared.dll
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/BlazingShop.Shared.pdb
+/home/niq/BlazingShop/BlazingShop.Shared/obj/Debug/net8.0/ref/BlazingShop.Shared.dll
