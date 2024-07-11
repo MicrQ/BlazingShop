@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/obj/Debug/net8.0/compressed/kyhfihslc7.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/obj/Debug/net8.0/scopedcss/bundle/BlazingShop.Client.styles.css",
+      "PackagePath": "staticwebassets/BlazingShop.Client.styles.css"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/niq/BlazingShop/BlazingShop.Client/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazingShop.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazingShop.Client.props",
+      "PackagePath": "build\\BlazingShop.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazingShop.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazingShop.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazingShop.Client.props",
+      "PackagePath": "buildTransitive\\BlazingShop.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

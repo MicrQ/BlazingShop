@@ -26,6 +26,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/niq/BlazingShop/BlazingShop.Client/Layout/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1Byb2R1Y3REZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/niq/BlazingShop/BlazingShop.Client/Layout/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1Byb2R1Y3RMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/niq/BlazingShop/BlazingShop.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
