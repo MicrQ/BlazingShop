@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l4rcCmeT6phd9QjzeddfQ7S3b3w3pSILUXmhS+5A83w=",
+  "Source": "BlazingShop.Server",
+  "BasePath": "_content/BlazingShop.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

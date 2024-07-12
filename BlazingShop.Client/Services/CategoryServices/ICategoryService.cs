@@ -5,5 +5,5 @@ namespace BlazingShop.Client;
 public interface ICategoryService
 {
     List<Category> Categories { get; set; }
-    void LoadCategories();
+    Task LoadCategories();
 }

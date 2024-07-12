@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazingShop.Client",
   "resources": {
-    "hash": "sha256-LYYD5qHh1GTafDwBP7CVp3pkAGxTo8l76aupiq9Dedc=",
+    "hash": "sha256-mxVVfMnX7SjsuTAoDlTu8LXciDHGyT9NxC5yz9FU5Ms=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.8m5ergfg1l.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-masKveCdoRSahF99doEQk7H3YN2wHLVIE4M/Zu8OoD8=",
       "netstandard.wasm": "sha256-z1EJOmgVhSpTopn7Tek/0P//MKGF1I3NUD/sh4oLnwY=",
       "System.Private.CoreLib.wasm": "sha256-tuIWpR30u0OoEVtv4pXZ47mEpI2AmFBIyYFPnqDZZfw=",
-      "BlazingShop.Shared.wasm": "sha256-Lt8dNn1Y3k/iHpOdiouqVqa4V+fPCODVK6uYof4IdJU=",
-      "BlazingShop.Client.wasm": "sha256-ifTY3SGGmF4LmwjVuW+4utQCsof6HgOqwx5aoFiXCj4="
+      "BlazingShop.Shared.wasm": "sha256-+8EVhV4pWi9MFa9BaAoMeHp3jkwZ/ZE+qf3T9hi8o8I=",
+      "BlazingShop.Client.wasm": "sha256-QPP6mH2iHagLBO57QfK0ILXzRcZf3rrxa48d0ZmqLyU="
     },
     "pdb": {
-      "BlazingShop.Shared.pdb": "sha256-J8EmsVig9m1pWm6T98yXpUdDZ/oOAeaX17j7XXDqNSU=",
-      "BlazingShop.Client.pdb": "sha256-I4pjjEk/Q4coCZq833m66ejpCdekAde/2HIEnl4waKU="
+      "BlazingShop.Shared.pdb": "sha256-CxOMGNDpqfSqW3eBi86dQmTAAXmqjwnfYNv+XJzbv8M=",
+      "BlazingShop.Client.pdb": "sha256-9uDIcSgRPT/GdAXokWljpyiUvZKuu7QkKLVh0svpPFM="
     }
   },
   "cacheBootResources": true,

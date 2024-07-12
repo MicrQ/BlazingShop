@@ -38,7 +38,7 @@
         collapseNavMenu = !collapseNavMenu;
     }
 
-    protected override void OnInitialized() {
-        CategoryService.LoadCategories();
+    protected override async Task OnInitializedAsync() {
+        await CategoryService.LoadCategories();
     }
 }
