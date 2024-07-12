@@ -4,7 +4,7 @@ namespace BlazingShop.Client;
 
 public class ProductServices : IProductServices
 {
-    public List<Product> Products { get; set ; }
+    public List<Product> Products { get; set ; } = new List<Product>();
 
     public void LoadProducts()
     {
